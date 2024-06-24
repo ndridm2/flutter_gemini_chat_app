@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 screenshoot
 
-![Screenshot 2024-06-24 at 13 43 31](https://github.com/ndridm2/flutter_gemini_chat_app/assets/64353589/3d5460cb-0ff6-49df-9484-18005c18a541)
+<img width="344" alt="Screenshot 2024-04-23 at 11 23 45" src="https://github.com/ndridm2/flutter_gemini_chat_app/assets/64353589/3d5460cb-0ff6-49df-9484-18005c18a541">
