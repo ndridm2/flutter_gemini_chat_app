@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:gemini_chat_app/pages/splashscreen.dart';
 
-const apiKey = 'AIzaSyBORmgOMU8vBQlVPqzlQliYmcxPwv8Y6ow';
+const apiKey = '';
 
 void main() {
   runApp(const MyApp());
