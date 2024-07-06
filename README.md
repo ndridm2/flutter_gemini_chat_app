@@ -1,4 +1,5 @@
 # gemini_chat_app
+AIzaSyBORmgOMU8vBQlVPqzlQliYmcxPwv8Y6ow
 
 A new Flutter project.
 
